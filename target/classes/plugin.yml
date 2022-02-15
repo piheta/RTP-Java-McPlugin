@@ -1,0 +1,9 @@
+name: TamaRTP
+version: '1.0'
+main: dev.picheta.tamartp.TamaRTP
+api-version: 1.18
+authors: [ Tamatati ]
+description: Teleports you to a random location on TamaSMP
+website: picheta.dev
+commands:
+  rtp:
